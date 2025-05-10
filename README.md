@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Wisdom Capsule**
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **C**
 
 - 📫 How to reach me **jpmesquita29085@hotmail.com**
 
