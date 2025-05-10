@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Pedro Mesquita</h1>
-<h3 align="center">Passionate Full-Stack Web Developer from Le Wagon driven by a love for coding and creating dynamic web applications</h3>
+<h3 align="center">42 Student</h3>
 
 - 🔭 I’m currently working on **Wisdom Capsule**
 
